@@ -34,25 +34,23 @@
               "icon": "lucide-file",
               "title": "amamammmmm"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ed9315de978bf83f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b0509bddcdcc9990",
+            "id": "82ffe0e998eb0aaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Wissensfragen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wissensfragen"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "850b645114f1102c",
@@ -124,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wissensfragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Wissensfragen"
             }
           },
           {
@@ -142,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wissensfragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Wissensfragen"
             }
           },
           {
@@ -167,9 +168,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Wissensfragen.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Wissensfragen"
             }
           },
           {
@@ -187,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +203,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0509bddcdcc9990",
+  "active": "82ffe0e998eb0aaa",
   "lastOpenFiles": [
+    "Pasted image 20250205114953.png",
+    "Pasted image 20250205114750.png",
+    "Pasted image 20250205114740.png",
+    "Pasted image 20250205114724.png",
+    "Pasted image 20250205114714.png",
+    "Pasted image 20250205114705.png",
+    "Pasted image 20250205114655.png",
+    "Pasted image 20250205114644.png",
+    "Pasted image 20250205114633.png",
+    "Pasted image 20250205114621.png",
+    "Pasted image 20250205114609.png",
     "amamammmmm.md",
+    "Wissensfragen.md",
     "desktop.ini",
     "Welcome.md"
   ]
