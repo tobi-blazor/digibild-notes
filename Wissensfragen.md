@@ -1,15 +1,15 @@
-![[Pasted image 20250205114421.png]]
-![[Pasted image 20250205114446.png]]
-![[Pasted image 20250205114457.png]]
+
+
+
 ![[Pasted image 20250205114655.png]]
-![[Pasted image 20250205114508.png]]
-![[Pasted image 20250205114518.png]]
+
+
 ![[Pasted image 20250205114953.png]]
-![[Pasted image 20250205114529.png]]
-![[Pasted image 20250205114538.png]]
-![[Pasted image 20250205114549.png]]
-![[Pasted image 20250205114559.png]]
-![[Pasted image 20250205114609.png]]
+
+
+
+
+
 ![[Pasted image 20250205114621.png]]
 ![[Pasted image 20250205114633.png]]
 ![[Pasted image 20250205114644.png]]
