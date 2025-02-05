@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "850b645114f1102c",
@@ -176,6 +177,11 @@
   },
   "active": "f696af34942e0f1c",
   "lastOpenFiles": [
+    "Bilder/Pasted image 20250205132712.png",
+    "Bilder/Pasted image 20250205132048.png",
+    "Bilder/Pasted image 20250205131926.png",
+    "Bilder/Pasted image 20250205131915.png",
+    "Bilder/Pasted image 20250205131854.png",
     "!Aufgabentypen.md",
     "Wissensfragen.md",
     "Klassifikation.md",
@@ -195,10 +201,6 @@
     "Bilder/Pasted image 20250205123952.png",
     "Bilder/Pasted image 20250205123944.png",
     "Bilder/Pasted image 20250205123937.png",
-    "Bilder/Pasted image 20250205123929.png",
-    "Bilder/Pasted image 20250205123921.png",
-    "Bilder/Pasted image 20250205123908.png",
-    "Bilder/Pasted image 20250205123900.png",
     "Begriffserläuterungen.md",
     "Punktoperationen.md",
     "Welcome.md",

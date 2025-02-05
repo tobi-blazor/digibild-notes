@@ -1,12 +1,44 @@
 Bei diesem Aufgabentyp können natürlich auch andere Eigenschaften von Histogrammen gefragt sein. Eine andere Variante besteht darin, aus einem gegebenen Histo- gramm Eigenschaften zu definieren. Weiterer Aufgabentyp: Histogramm aus Bild errechnen oder Histogrammebnung berechnung, siehe Beispiele aus der Vorlesung
 
-a.) Was ist ein Grauwerthistogramm (maximal 2 Punkte)? 
-b.) Erläutern Sie die Begriffe Kontrast und Dynamik (maximal 4 Punkte). 
-c.) Skizzieren Sie ein Grauwerthistogramm für ein kontrastarmes Bild und eins für ein Bild mit geringer Dynamik 
+- Grauwerthistogramm
+	- Eine Häufigkeitsverteilung der Grauwerte im Bild
+- Dynamik 
+	- ist die anzahl verschiedener Grauwerte im Bild
+	- hohe dynamik -> viele unterschiedliche farben, ist besser
+	- ![[Pasted image 20250205131915.png]]
+- Kontrast
+	- is der effektiv genutzte Bereich von Grauwerten
+	- ![[Pasted image 20250205131926.png]]
+- Belichtung
+	- Fehler: Ende der Grauwertskala ungenutzte bereiche während am anderen ende eine Häufung auftritt
+	- ![[Pasted image 20250205132048.png]]
+- was tun wenn zu wenig kontrast?
+	- Histogrammanpassung
+- schwellwert-operation, wofür eingesetzt
+	- Segmentierung, z.B. Binarisierung
+	- Werte oberhalb eines Schwellwerts werden auf 1 gesetzt, andere 0
+- shading korrektur, wie wird durchgeführt
+	- Ortsabhängige Grauwerttransformation
+	- Kompensation örtlich Inhomogener Beleuchtungseinflüsse
+	- Durchführung
+		- Referenzbild mit konstanter Reflektion aufnehmen (fref)
+		- Original mit hilfe des Referenzbild korrigieren
+- Auto-Kontrast Erläutern
+	- Vorgehen erläutern
+	- Vor und Nachteile
+- Histogrammebnung erläutern
 
 
-![[Pasted image 20250205115921.png]]![[Pasted image 20250205115939.png]]
+!! Immer Achsenbeschriftungen angeben, sonst ist es ein fehler !!
+
+![[Pasted image 20250205115921.png]]
+- ergänzt
+
+![[Pasted image 20250205115939.png]]
+- ergänzt
+
 ![[Pasted image 20250205115950.png]]
+
 ![[Pasted image 20250205120003.png]]
 ![[Pasted image 20250205120014.png]]
 ![[Pasted image 20250205120026.png]]
