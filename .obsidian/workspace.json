@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Zusammenfassung wissensfragen"
             }
+          },
+          {
+            "id": "39dae2bfd41ad4c3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2eecca903efedc96",
+  "active": "39dae2bfd41ad4c3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Zusammenfassung wissensfragen.md",
     "Wissensfragen.md",
     "Linsengleichung.md",
     "Hough-Transformation.md",
     "Anwendungsaufgabe.md",
-    "Zusammenfassung wissensfragen.md",
     "Segmentierung.md",
     "Punktoperationen.md",
     "Morphologische Operatoren.md",
