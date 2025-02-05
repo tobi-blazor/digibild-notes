@@ -1,3 +1,13 @@
+- Median
+- Blur,
+- Laplace
+- Min
+- Max
+- Closest-of-Min-Max
+- Prewitt
+- Faltung: linear/nicht linear beachten
+- 
+
 ![[Pasted image 20250205120505.png]]
 ![[Pasted image 20250205120516.png]]
 ![[Pasted image 20250205120523.png]]

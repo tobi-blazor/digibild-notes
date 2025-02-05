@@ -3,7 +3,7 @@
 
 # Aufgabe 2 (immer)
 [[Punktoperationen]]
-
+- Tobi und richi
 # Aufgabe 3 (immer)
 [[Lokale Operationen, Filter]]
 

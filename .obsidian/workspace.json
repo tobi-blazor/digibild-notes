@@ -11,10 +11,14 @@
             "id": "508303a3183b63a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lokale Operationen, Filter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lokale Operationen, Filter"
             }
           }
         ]
@@ -171,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69ad8c6d89d19584",
+  "active": "508303a3183b63a4",
   "lastOpenFiles": [
-    "Zusammenfassung wissensfragen.md",
     "!Aufgabentypen.md",
+    "Linsengleichung.md",
+    "Zusammenfassung wissensfragen.md",
     "Lokale Operationen, Filter.md",
     "Punktoperationen.md",
     "Bilder/Pasted image 20250205151052.png",
@@ -195,7 +200,6 @@
     "Konturentdeckung.md",
     "Segmentierung.md",
     "Fouriertransformation 2D.md",
-    "Linsengleichung.md",
     "Morphologische Operatoren.md",
     "Anwendungsaufgabe.md",
     "Begriffserläuterungen.md",
