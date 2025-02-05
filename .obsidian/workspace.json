@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Punktoperationen.md",
+                "file": "Lokale Operationen, Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Punktoperationen"
+              "title": "Lokale Operationen, Filter"
             }
           }
         ]
@@ -177,6 +177,11 @@
   },
   "active": "f696af34942e0f1c",
   "lastOpenFiles": [
+    "!Aufgabentypen.md",
+    "Punktoperationen.md",
+    "Bilder/Pasted image 20250205151052.png",
+    "Bilder/Pasted image 20250205145549.png",
+    "Bilder/Pasted image 20250205142931.png",
     "Bilder/Pasted image 20250205140655.png",
     "Bilder/Pasted image 20250205140636.png",
     "Bilder/Pasted image 20250205140614.png",
@@ -184,11 +189,6 @@
     "Bilder/Pasted image 20250205135512.png",
     "Bilder/Pasted image 20250205134706.png",
     "Bilder/Pasted image 20250205134601.png",
-    "Bilder/Pasted image 20250205134225.png",
-    "Bilder/Pasted image 20250205133707.png",
-    "Bilder/Pasted image 20250205133645.png",
-    "Bilder/Pasted image 20250205132712.png",
-    "!Aufgabentypen.md",
     "Wissensfragen.md",
     "Klassifikation.md",
     "Farbe.md",
@@ -202,7 +202,6 @@
     "Anwendungsaufgabe.md",
     "Lokale Operationen, Filter.md",
     "Begriffserläuterungen.md",
-    "Punktoperationen.md",
     "Welcome.md",
     "Lokale Operationen/Filter.md",
     "Lokale Operationen",

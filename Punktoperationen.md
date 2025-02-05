@@ -41,10 +41,18 @@ Bei diesem Aufgabentyp können natürlich auch andere Eigenschaften von Histogra
 - Histogrammebnung erläutern
 	- Grauwerte möglichst gleichmäßig über gesamten zur verfügung stehenden Wertebereich verteilen
 	- Grauwerte wo cumm Verteilungsfunktion stark ansteigt werden auseinander gezogen
-	- Annähernd Gleichverteilung herstellen, klassischer Ausgleich
-		- ![[Pasted image 20250205140519.png]]
-	- Grauwerte entsprechend kumm. Verteilungsfunktion ausdehnen. 0 wird auf 0 abgebildet
-		- ![[Pasted image 20250205140614.png]]
+	- Vorgehen
+		- man muss wissen welchen Grauwertbereich man hat (0-255 oder 0-15 z.B.) die anzahl ist Q
+		- Tabelle zeichnen
+			- Alter Grauwert: f
+			- Absolute Häufigkeit: h
+			- Kummulierte Verteillungsfunktion: P
+			- neuer Grauwert: g
+			- Annähernd Gleichverteilung herstellen, klassischer Ausgleich
+				- ![[Pasted image 20250205140519.png]]
+			- Grauwerte entsprechend kumm. Verteilungsfunktion ausdehnen. 0 wird auf 0 abgebildet
+				- ![[Pasted image 20250205140614.png]]
+				- ![[Pasted image 20250205145549.png]]
 - transformationskennlinien
 	- Ortsunabhängige Grauwerttransformation
 	- geht auch als LUT
@@ -64,6 +72,13 @@ Bei diesem Aufgabentyp können natürlich auch andere Eigenschaften von Histogra
 	- Betragsbildung für Erhalt des Wertebereichs 
 	- Verstärkt Grauwertdifferenzen
 !! Immer Achsenbeschriftungen angeben, sonst ist es ein fehler !!
+## Auto-Kontrast
+von f nach g
+![[Pasted image 20250205151052.png]]
+
+
+
+---
 
 ![[Pasted image 20250205115921.png]]
 - ergänzt
