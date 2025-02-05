@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "139fccc9243c90ea",
+        "id": "241d4cc96cfd9477",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4491a43d7322ea",
+            "id": "f696af34942e0f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Lokale Operationen, Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "5b406f89df6cf9d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amamammmmm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "amamammmmm"
-            }
-          },
-          {
-            "id": "82ffe0e998eb0aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wissensfragen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wissensfragen"
+              "title": "Lokale Operationen, Filter"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -123,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wissensfragen.md",
+                "file": "!Aufgabentypen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wissensfragen"
+              "title": "Backlinks for !Aufgabentypen"
             }
           },
           {
@@ -142,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wissensfragen.md",
+                "file": "!Aufgabentypen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wissensfragen"
+              "title": "Outgoing links from !Aufgabentypen"
             }
           },
           {
@@ -169,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wissensfragen.md"
+                "file": "!Aufgabentypen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wissensfragen"
+              "title": "Outline of !Aufgabentypen"
             }
           },
           {
@@ -190,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,22 +175,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82ffe0e998eb0aaa",
+  "active": "f696af34942e0f1c",
   "lastOpenFiles": [
-    "Pasted image 20250205114953.png",
-    "Pasted image 20250205114750.png",
-    "Pasted image 20250205114740.png",
-    "Pasted image 20250205114724.png",
-    "Pasted image 20250205114714.png",
-    "Pasted image 20250205114705.png",
-    "Pasted image 20250205114655.png",
-    "Pasted image 20250205114644.png",
-    "Pasted image 20250205114633.png",
-    "Pasted image 20250205114621.png",
-    "Pasted image 20250205114609.png",
-    "amamammmmm.md",
+    "!Aufgabentypen.md",
+    "Punktoperationen.md",
+    "Bilder/Pasted image 20250205151052.png",
+    "Bilder/Pasted image 20250205145549.png",
+    "Bilder/Pasted image 20250205142931.png",
+    "Bilder/Pasted image 20250205140655.png",
+    "Bilder/Pasted image 20250205140636.png",
+    "Bilder/Pasted image 20250205140614.png",
+    "Bilder/Pasted image 20250205140519.png",
+    "Bilder/Pasted image 20250205135512.png",
+    "Bilder/Pasted image 20250205134706.png",
+    "Bilder/Pasted image 20250205134601.png",
     "Wissensfragen.md",
-    "desktop.ini",
-    "Welcome.md"
+    "Klassifikation.md",
+    "Farbe.md",
+    "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
+    "Hough-Transformation.md",
+    "Konturentdeckung.md",
+    "Segmentierung.md",
+    "Fouriertransformation 2D.md",
+    "Linsengleichung.md",
+    "Morphologische Operatoren.md",
+    "Anwendungsaufgabe.md",
+    "Lokale Operationen, Filter.md",
+    "Begriffserläuterungen.md",
+    "Welcome.md",
+    "Lokale Operationen/Filter.md",
+    "Lokale Operationen",
+    "amamammmmm.md",
+    "Bilder",
+    "desktop.ini"
   ]
 }
