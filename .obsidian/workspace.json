@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a4491a43d7322ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "5b406f89df6cf9d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amamammmmm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "amamammmmm"
-            }
-          },
-          {
             "id": "82ffe0e998eb0aaa",
             "type": "leaf",
             "state": {
@@ -48,9 +20,115 @@
               "icon": "lucide-file",
               "title": "Wissensfragen"
             }
+          },
+          {
+            "id": "8e59f2e9054af140",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bilder/Pasted image 20250205114421.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250205114421"
+            }
+          },
+          {
+            "id": "963640357db8ed54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aufgabentypen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aufgabentypen"
+            }
+          },
+          {
+            "id": "c7a57aab7ca53a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anwendungsaufgabe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anwendungsaufgabe"
+            }
+          },
+          {
+            "id": "f181b55c1de754b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segmentierung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Segmentierung"
+            }
+          },
+          {
+            "id": "da52b69ccd0b8296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fouriertransformation 2D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fouriertransformation 2D"
+            }
+          },
+          {
+            "id": "7ee0aaaaab1e593c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klassifikation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Klassifikation"
+            }
+          },
+          {
+            "id": "6479b2d4de39d2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokale Operationen, Filter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lokale Operationen, Filter"
+            }
+          },
+          {
+            "id": "5a571c804080977b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wissensfragen.md",
+                "file": "Anwendungsaufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wissensfragen"
+              "title": "Backlinks for Anwendungsaufgabe"
             }
           },
           {
@@ -142,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wissensfragen.md",
+                "file": "Anwendungsaufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wissensfragen"
+              "title": "Outgoing links from Anwendungsaufgabe"
             }
           },
           {
@@ -169,10 +247,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wissensfragen.md"
+                "file": "Anwendungsaufgabe.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wissensfragen"
+              "title": "Outline of Anwendungsaufgabe"
             }
           },
           {
@@ -190,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,22 +281,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82ffe0e998eb0aaa",
+  "active": "c7a57aab7ca53a28",
   "lastOpenFiles": [
-    "Pasted image 20250205114953.png",
-    "Pasted image 20250205114750.png",
-    "Pasted image 20250205114740.png",
-    "Pasted image 20250205114724.png",
-    "Pasted image 20250205114714.png",
-    "Pasted image 20250205114705.png",
-    "Pasted image 20250205114655.png",
-    "Pasted image 20250205114644.png",
-    "Pasted image 20250205114633.png",
-    "Pasted image 20250205114621.png",
-    "Pasted image 20250205114609.png",
+    "Bilder/Pasted image 20250205124015.png",
+    "Bilder/Pasted image 20250205124000.png",
+    "Bilder/Pasted image 20250205123952.png",
+    "Bilder/Pasted image 20250205123944.png",
+    "Bilder/Pasted image 20250205123937.png",
+    "Bilder/Pasted image 20250205123929.png",
+    "Bilder/Pasted image 20250205123921.png",
+    "Bilder/Pasted image 20250205123908.png",
+    "Bilder/Pasted image 20250205123900.png",
+    "Bilder/Pasted image 20250205123853.png",
+    "Aufgabentypen.md",
+    "Anwendungsaufgabe.md",
+    "Morphologische Operatoren.md",
+    "Bilder/Pasted image 20250205123822.png",
+    "Linsengleichung.md",
+    "Klassifikation.md",
+    "Fouriertransformation 2D.md",
+    "Konturentdeckung.md",
+    "Segmentierung.md",
+    "Hough-Transformation.md",
+    "Farbe.md",
+    "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
+    "Begriffserläuterungen.md",
+    "Lokale Operationen, Filter.md",
+    "Punktoperationen.md",
+    "Welcome.md",
+    "Lokale Operationen/Filter.md",
+    "Lokale Operationen",
     "amamammmmm.md",
+    "Bilder",
     "Wissensfragen.md",
-    "desktop.ini",
-    "Welcome.md"
+    "desktop.ini"
   ]
 }
