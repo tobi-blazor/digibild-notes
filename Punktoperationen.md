@@ -27,6 +27,16 @@ Bei diesem Aufgabentyp können natürlich auch andere Eigenschaften von Histogra
 	- Vorgehen erläutern
 	- Vor und Nachteile
 - Histogrammebnung erläutern
+- transformationskennlinien
+	- Ortsunabhängige Grauwerttransformation
+	- geht auch als LUT
+	- Invertierung umsetzbar, unterbelichtung korrigierbar, ...
+	- ![[Pasted image 20250205133645.png]]
+	- Korrektur unterbelichtung
+		- ![[Pasted image 20250205133707.png]]
+	- Kontrastverstärkung
+		- ![[Pasted image 20250205134225.png]]
+		- 
 
 
 !! Immer Achsenbeschriftungen angeben, sonst ist es ein fehler !!
@@ -38,9 +48,14 @@ Bei diesem Aufgabentyp können natürlich auch andere Eigenschaften von Histogra
 - ergänzt
 
 ![[Pasted image 20250205115950.png]]
+- ergänzt
 
 ![[Pasted image 20250205120003.png]]
+- ergänzt
+
 ![[Pasted image 20250205120014.png]]
+- 
+
 ![[Pasted image 20250205120026.png]]
 ![[Pasted image 20250205120037.png]]
 ![[Pasted image 20250205120047.png]]
