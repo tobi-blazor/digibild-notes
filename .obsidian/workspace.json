@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Aufgabentypen.md",
+                "file": "Begriffserläuterungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Aufgabentypen"
+              "title": "Begriffserläuterungen"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Lokale Operationen, Filter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,18 +203,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1932bef982b7bba6",
+  "active": "508303a3183b63a4",
   "lastOpenFiles": [
     "!Aufgabentypen.md",
-    "Wissensfragen.md",
+    "Farbe.md",
+    "Begriffserläuterungen.md",
     "Lokale Operationen, Filter.md",
+    "Zusammenfassung wissensfragen.md",
+    "Wissensfragen.md",
     "Bilder/Pasted image 20250205222528.png",
     "Bilder/Pasted image 20250205221602.png",
     "Bilder/Pasted image 20250205211833.png",
     "Bilder/Pasted image 20250205205220.png",
     "Bilder/Pasted image 20250205205142.png",
     "Linsengleichung.md",
-    "Zusammenfassung wissensfragen.md",
     "Punktoperationen.md",
     "Bilder/Pasted image 20250205151052.png",
     "Bilder/Pasted image 20250205145549.png",
@@ -223,7 +224,6 @@
     "Bilder/Pasted image 20250205140655.png",
     "Bilder/Pasted image 20250205140636.png",
     "Klassifikation.md",
-    "Farbe.md",
     "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
     "Hough-Transformation.md",
     "Konturentdeckung.md",
@@ -231,7 +231,6 @@
     "Fouriertransformation 2D.md",
     "Morphologische Operatoren.md",
     "Anwendungsaufgabe.md",
-    "Begriffserläuterungen.md",
     "Welcome.md",
     "Lokale Operationen/Filter.md",
     "Lokale Operationen",
