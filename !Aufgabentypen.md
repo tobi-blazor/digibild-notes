@@ -14,14 +14,14 @@
 - auf lücke lernen, viele begriffe
 # Aufgabe 5 (immer)
 [[Farbe]] 
-
+- check
 # Aufgabe 6 (immer)
 [[Affine und Lineare Abbildungen, Geometrische Transformationen]]
 
 
 # Aufgabe 7
  [[Fouriertransformation 2D]]
-
+- nur 1D, aber Artefakte erklären auch 2D
 
 # Aufgabe 8 (immer)
 [[Segmentierung]] und [[Konturentdeckung]]
@@ -31,12 +31,14 @@
 
 # Aufgabe 10
 [[Linsengleichung]] (gabs nur ein mal)
+- nur erklären können
 
 # Aufgabe 11 (immer)
 [[Morphologische Operatoren]]
 
 # Aufgabe 12 (immer)
 [[Anwendungsaufgabe]]
+- Deep Learning – nur für Anwendungsaufgabe
 
 
 # Ansonsten
