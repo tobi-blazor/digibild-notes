@@ -11,7 +11,7 @@
 
 # Aufgabe 4 (immer)
 [[Begriffserläuterungen]]
-
+- auf lücke lernen, viele begriffe
 # Aufgabe 5 (immer)
 [[Farbe]] 
 
