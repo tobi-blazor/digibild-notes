@@ -15,6 +15,11 @@
 	- ![[Pasted image 20250205205220.png]]
 	- 
 - Laplace
+	- ![[Pasted image 20250205222528.png]]
+	- linearer Filter
+	- Grauwertsprünge zwischen dunklen und hellen Bildregionen hervorheben
+	- Realisiert Approximation der zweiten ableitung
+	- sensibel auf kleine störungen
 - Min
 	- Nicht linear, Rangordnungsoperatoren
 	- Dunkle Regionen Säubern
@@ -26,7 +31,14 @@
 	- Helle regionen säubern
 	- Dunkle regionen schrumpfen/zerstören
 - Closest-of-Min-Max
+	- min und max bilden
+	- wert wählen von beiden der am nächsten ist an original
+	- falls unbefriedigend, dann iterative anwendung oder vergrößerung von operatorfenster hilft
 - Prewitt
+	- ![[Pasted image 20250205221602.png]]
+	- Hervorhebung von Grauwertdifferenzen
+	- weniger empfindlich gegenüber Bildstörungen
+	- realisieren approximation der 1. ableitung
 - Faltung: linear/nicht linear beachten
 	- Linear
 		- verknüpfung der Pixelwerte innerhalb des Operatorenfensters durch linearen ausdruck (gewichtete summe)
@@ -36,9 +48,16 @@
 - Rangordnungsoperatoren
 	- werte werden sortiert, gewichtet, aufsummiert. summe bildet neuen wert
 	- nichtlinear
-
+- absolute Differenz min und max für jedes pixel
+	- ergibt hervorgehobenen wertübergänge zwischen dunklen und hellen regionen
+- Separierbarkeit
+	- zerteilung eines zweidimensionalen filters in zweii eindimensionale
+	- geht wenn filterfunktion als (äußeres) produkt beschrieben werden kann
 ![[Pasted image 20250205120505.png]]
+yes
+
 ![[Pasted image 20250205120516.png]]
+
 ![[Pasted image 20250205120523.png]]
 ![[Pasted image 20250205120536.png]]
 ![[Pasted image 20250205120546.png]]
