@@ -68,10 +68,10 @@ Unsharp-Masking
 - schärferes Bild durch Addition/Subtraktion von einem geglätteten Bild ( Gauß-Filter ) und dem Originalbild
 
 Auto-kontrast
-- kein Problem, wenn grauwerte im histgramm 
+- kein Problem, wenn grauwerte im histgramm mittig sind
 
 Gelber fleck
-- wahrnehmung am besten und an den rändern
+- wahrnehmung am besten und an den rändern am schlechtesten
 
 Blende
 - wenn klein, dann verringert unschärfe, macht aber bild dunkler
