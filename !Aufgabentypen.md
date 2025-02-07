@@ -25,7 +25,7 @@
 
 # Aufgabe 8 (immer)
 [[Segmentierung]] und [[Konturentdeckung]]
-
+fehlen noch sachen
 # Aufgabe 9
 [[Klassifikation]]
 
