@@ -20,28 +20,19 @@
               "icon": "lucide-file",
               "title": "Affine und Lineare Abbildungen, Geometrische Transformationen"
             }
-          }
-        ]
-      },
-      {
-        "id": "697534b44186054a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1d55442388af4d14",
+            "id": "b6dc463fc444a7bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Affine und Lineare Abbildungen, Geometrische Transformationen"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,14 +182,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69ad8c6d89d19584",
+  "active": "b6dc463fc444a7bd",
   "lastOpenFiles": [
     "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
-    "conflict-files-obsidian-git.md",
     "!Aufgabentypen.md",
     "Farbe.md",
     "Klassifikation.md",
