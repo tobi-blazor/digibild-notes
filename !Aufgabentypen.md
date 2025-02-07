@@ -7,7 +7,6 @@
 # Aufgabe 3 (immer)
 [[Lokale Operationen, Filter]]
 - tobi hat eingetragen
-- fragen aus alten klausuren fehlen
 
 # Aufgabe 4 (immer)
 [[Begriffserläuterungen]]
