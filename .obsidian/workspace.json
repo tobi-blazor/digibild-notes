@@ -25,10 +25,14 @@
             "id": "b6dc463fc444a7bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Segmentierung.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Segmentierung"
             }
           }
         ],
@@ -187,12 +191,12 @@
   },
   "active": "b6dc463fc444a7bd",
   "lastOpenFiles": [
-    "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
     "!Aufgabentypen.md",
+    "Fouriertransformation 2D.md",
+    "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
     "Farbe.md",
     "Klassifikation.md",
     "Linsengleichung.md",
-    "Fouriertransformation 2D.md",
     "Hough-Transformation.md",
     "Morphologische Operatoren.md",
     "Segmentierung.md",

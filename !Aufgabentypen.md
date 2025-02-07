@@ -17,7 +17,7 @@
 - check
 # Aufgabe 6 (immer)
 [[Affine und Lineare Abbildungen, Geometrische Transformationen]]
-
+- check
 
 # Aufgabe 7
  [[Fouriertransformation 2D]]
