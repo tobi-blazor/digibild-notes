@@ -11,6 +11,7 @@
 - k nächster nachbar
 	- für testpunkt die Klasseninfo von k nächstem Punkten in Trainingsmenge, mehrheit antwortet
 - Support-Vektor Maschine
+	- Bei SVMs findet eine Eingabetransformation mit einer Kernfunktion statt
 	- Kernfunktion
 		- Radiale Basisfunktionen
 		- Polynomfunktionen
