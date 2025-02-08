@@ -57,6 +57,20 @@
             }
           },
           {
+            "id": "2b71cc324a8890c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "de132455bdb0a630",
             "type": "leaf",
             "state": {
@@ -98,7 +112,8 @@
               "title": "Zusammenfassung wissensfragen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,8 +267,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be93de5532ffb810",
+  "active": "2b71cc324a8890c9",
   "lastOpenFiles": [
+    "Klassifikation.md",
+    "conflict-files-obsidian-git.md",
+    "Segmentierung Richard.md",
     "Punktoperationen.md",
     "Segmentierung.md",
     "Wissensfragen.md",
@@ -262,7 +280,6 @@
     "Zusammenfassung wissensfragen.md",
     "Morphologische Operatoren.md",
     "Linsengleichung.md",
-    "Klassifikation.md",
     "!Aufgabentypen.md",
     "Hough-Transformation.md",
     "Fouriertransformation 2D.md",
@@ -273,7 +290,6 @@
     "Bilder/Pasted image 20250208130820.png",
     "Farbe.md",
     "Konturentdeckung.md",
-    "conflict-files-obsidian-git.md",
     "Lokale Operationen, Filter.md",
     "Bilder/Pasted image 20250207225115.png",
     "Bilder/Pasted image 20250207165204.png",

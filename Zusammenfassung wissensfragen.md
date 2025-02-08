@@ -11,7 +11,7 @@
 Fourierspektrum
 - 0te Komponente entspricht gleichanteil
 - $\frac{M}{2}$ Komponente entspricht nyquist-frequenz
-- amplitudenspektrum ist einfacher zu interpretieren
+- amplitudenspektrum ist einfacher zu interpretieren, phasenspektrum aber mehr eigenschaften des bildes 
 
 Fourierraum
 - Tiefpass entspricht Glättungsfilter mit lokalen Operatoren
