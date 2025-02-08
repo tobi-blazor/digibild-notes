@@ -59,8 +59,6 @@
 	- Projektionen
 - Fluch der Dimensionne
 	- Steigende Zahl Merkmale -> notwendige trainingsmuster überproportional
-- Maximum Margin
-	- 
 
 ![[Pasted image 20250205123325.png]]![[Pasted image 20250205123337.png]]
 ![[Pasted image 20250205123346.png]]
