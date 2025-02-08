@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segmentierung.md",
+                "file": "Klassifikation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Segmentierung"
+              "title": "Klassifikation"
             }
           },
           {
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Aufgabentypen.md",
+                "file": "Klassifikation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Aufgabentypen"
+              "title": "Klassifikation"
             }
           },
           {
@@ -98,8 +98,7 @@
               "title": "Zusammenfassung wissensfragen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,31 +252,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de132455bdb0a630",
+  "active": "be93de5532ffb810",
   "lastOpenFiles": [
-    "Zusammenfassung wissensfragen.md",
-    "!Aufgabentypen.md",
+    "Punktoperationen.md",
+    "Segmentierung.md",
+    "Wissensfragen.md",
+    "Anwendungsaufgabe.md",
     "Begriffserläuterungen.md",
-    "Klassifikation.md",
+    "Zusammenfassung wissensfragen.md",
     "Morphologische Operatoren.md",
+    "Linsengleichung.md",
+    "Klassifikation.md",
+    "!Aufgabentypen.md",
+    "Hough-Transformation.md",
     "Fouriertransformation 2D.md",
     "Bilder/Pasted image 20250208145431.png",
     "Bilder/Pasted image 20250208142808.png",
     "Bilder/Pasted image 20250208142806.png",
-    "Wissensfragen.md",
     "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
-    "Anwendungsaufgabe.md",
     "Bilder/Pasted image 20250208130820.png",
-    "Punktoperationen.md",
     "Farbe.md",
     "Konturentdeckung.md",
-    "Segmentierung.md",
     "conflict-files-obsidian-git.md",
     "Lokale Operationen, Filter.md",
     "Bilder/Pasted image 20250207225115.png",
-    "Linsengleichung.md",
     "Bilder/Pasted image 20250207165204.png",
-    "Hough-Transformation.md",
     "Bilder/Pasted image 20250205222528.png",
     "Bilder/Pasted image 20250205221602.png",
     "Bilder/Pasted image 20250205211833.png",

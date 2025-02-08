@@ -54,5 +54,3 @@
 - Deep Learning – nur für Anwendungsaufgabe
 
 
-# Ansonsten
-[[Hough-Transformation]], ist aber ausgeschlossen
