@@ -1,31 +1,46 @@
-# Aufgabe 1 (immer)
-[[Wissensfragen]]
-[[Zusammenfassung wissensfragen]]
+
 # Aufgabe 2 (immer)
 [[Punktoperationen]]
 - Tobi und richi haben bearbeitet
+- Auf spicker
 # Aufgabe 3 (immer)
 [[Lokale Operationen, Filter]]
 - tobi hat eingetragen
-- fragen aus alten klausuren fehlen
-
-# Aufgabe 4 (immer)
-[[Begriffserläuterungen]]
-- auf lücke lernen, viele begriffe
+- Auf spicker
 # Aufgabe 5 (immer)
 [[Farbe]] 
 - check
+- auf spicker
 # Aufgabe 6 (immer)
 [[Affine und Lineare Abbildungen, Geometrische Transformationen]]
 - check
+- auf spicker
+
+# Aufgabe 8 (immer)
+[[Segmentierung]] und [[Konturentdeckung]]
+- auf spicki
 
 # Aufgabe 7
  [[Fouriertransformation 2D]]
 - nur 1D, aber Artefakte erklären auch 2D
+- spicker
 
-# Aufgabe 8 (immer)
-[[Segmentierung]] und [[Konturentdeckung]]
-fehlen noch sachen
+# Aufgabe 11 (immer)
+[[Morphologische Operatoren]]
+
+
+# Aufgabe 1 (immer)
+[[Wissensfragen]]
+[[Zusammenfassung wissensfragen]]
+
+
+---
+
+# Aufgabe 4 (immer)
+[[Begriffserläuterungen]]
+- auf lücke lernen, viele begriffe
+
+
 # Aufgabe 9
 [[Klassifikation]]
 
@@ -33,8 +48,6 @@ fehlen noch sachen
 [[Linsengleichung]] (gabs nur ein mal)
 - nur erklären können
 
-# Aufgabe 11 (immer)
-[[Morphologische Operatoren]]
 
 # Aufgabe 12 (immer)
 [[Anwendungsaufgabe]]

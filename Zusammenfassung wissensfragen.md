@@ -1,4 +1,5 @@
-
+![[Pasted image 20250208142806.png]]
+![[Pasted image 20250208142808.png]]
 
 2D-Fourierspektrum
 - Zentrierung verbessert Interpretation
