@@ -11,14 +11,14 @@
             "id": "2eecca903efedc96",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Zusammenfassung wissensfragen.md",
-                "bFile": "Zusammenfassung wissensfragen.md",
-                "aRef": ""
+                "file": "Segmentierung.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Zusammenfassung wissensfragen"
+              "icon": "lucide-file",
+              "title": "Segmentierung"
             }
           },
           {
@@ -183,8 +183,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69ad8c6d89d19584",
+  "active": "2eecca903efedc96",
   "lastOpenFiles": [
+    "Klassifikation.md",
+    "Segmentierung.md",
+    "Zusammenfassung wissensfragen.md",
+    "Wissensfragen.md",
+    "Begriffserläuterungen.md",
+    "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
+    "Farbe.md",
+    "Hough-Transformation.md",
+    "Fouriertransformation 2D.md",
+    "Anwendungsaufgabe.md",
+    "!Aufgabentypen.md",
+    "Lokale Operationen, Filter.md",
+    "Punktoperationen.md",
     "conflict-files-obsidian-git.md",
     "Bilder/Pasted image 20250207165204.png",
     "Bilder/Pasted image 20250205222528.png",
@@ -192,22 +205,9 @@
     "Bilder/Pasted image 20250205211833.png",
     "Bilder/Pasted image 20250205205220.png",
     "Bilder/Pasted image 20250205205142.png",
-    "Punktoperationen.md",
-    "Zusammenfassung wissensfragen.md",
-    "Wissensfragen.md",
     "Linsengleichung.md",
-    "Anwendungsaufgabe.md",
-    "Begriffserläuterungen.md",
-    "Farbe.md",
-    "Fouriertransformation 2D.md",
-    "Hough-Transformation.md",
-    "Klassifikation.md",
     "Konturentdeckung.md",
-    "Lokale Operationen, Filter.md",
     "Morphologische Operatoren.md",
-    "Segmentierung.md",
-    "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
-    "!Aufgabentypen.md",
     "Bilder/Pasted image 20250205151052.png",
     "Bilder/Pasted image 20250205145549.png",
     "Bilder/Pasted image 20250205142931.png",
