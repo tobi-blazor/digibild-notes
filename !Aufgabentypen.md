@@ -4,9 +4,11 @@
 # Aufgabe 2 (immer)
 [[Punktoperationen]]
 - Tobi und richi haben bearbeitet
+- Auf spicker
 # Aufgabe 3 (immer)
 [[Lokale Operationen, Filter]]
 - tobi hat eingetragen
+- Auf spicker
 
 # Aufgabe 4 (immer)
 [[Begriffserläuterungen]]
@@ -14,6 +16,7 @@
 # Aufgabe 5 (immer)
 [[Farbe]] 
 - check
+- auf spicker
 # Aufgabe 6 (immer)
 [[Affine und Lineare Abbildungen, Geometrische Transformationen]]
 - check
