@@ -29,6 +29,12 @@ Startpunkt wählen -> Region wachsen durch nachbarpixel -> Stopp wenn keine weit
 Gradient => Richtung des stärksten Grauwertanstiegs
 Sobel/Prewitt wird benutzt um die partielle Ableitungen zu bilden (vertikal/horizontal) => Betrag und Winkel wird bestimmt => zweite Ableitung Laplace für Stärke der Kanten
 
+| **Operator** | **Mathematische Grundlage** | **Vorteile**                             | **Nachteile**                  |
+| ------------ | --------------------------- | ---------------------------------------- | ------------------------------ |
+| **Sobel**    | Erste Ableitung             | Richtungssensitiv, robust gegen Rauschen | Kanten sind oft dick           |
+| **Prewitt**  | Erste Ableitung             | Ähnlich wie Sobel, aber einfacher        | Weniger genau als Sobel        |
+| **Laplace**  | Zweite Ableitung            | Findet Kanten unabhängig von Richtung    | Empfindlich gegenüber Rauschen |
+
 ### Ablauf Kontursegmentierung von Ursprungsbild zu Repräsentation der Objektränder durch Liste von Strecken
 - Hervorhebung von Grauwertdifferenzen in horizontaler und vertikaler Richtung (kartesische Darstellung) durch Gradientenoperation.
 - Wandlung der kartesischen Darstellung in polare Darstellung ergibt Betrag und die Richtung der jeweils größten Grauwertänderung.
