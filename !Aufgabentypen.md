@@ -29,10 +29,12 @@
 [[Morphologische Operatoren]]
 
 
----
 # Aufgabe 1 (immer)
 [[Wissensfragen]]
 [[Zusammenfassung wissensfragen]]
+
+
+---
 
 # Aufgabe 4 (immer)
 [[Begriffserläuterungen]]
