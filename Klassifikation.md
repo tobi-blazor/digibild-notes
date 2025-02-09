@@ -29,14 +29,12 @@
 	- Kreuzvalidierung
 		- Mustermenge in k gleich große teile einteilen
 		- wenn k sehr groß, validierungsmenge klein
-- Objektklassifikation
-	- Eigenschaften für Features/attribute
 - Objekterkennung
 	- Durch Bildsegmentierung (Features der Segmente)
 	- gleitendes Fenster und berechnung der Features
 - Attributeigenschaften (gewünscht)
 	- Translationsinvariant, Rotationsinvariant, Skaleninvariant
-- Features
+- Features für Objektklassifikation
 	- Flächeninhalt
 		- TIV, RIV
 	- Umfang
@@ -58,6 +56,7 @@
 	-  Hu Momente
 		- Rotationsinvariant
 	- Projektionen
+		- ![[Pasted image 20250209091322.png]]
 - Fluch der Dimensionne
 	- Steigende Zahl Merkmale -> notwendige trainingsmuster überproportional
 
