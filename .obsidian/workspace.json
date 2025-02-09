@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klassifikation.md",
+                "file": "!Aufgabentypen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Klassifikation"
+              "title": "!Aufgabentypen"
             }
           },
           {
@@ -254,18 +254,18 @@
   },
   "active": "be93de5532ffb810",
   "lastOpenFiles": [
+    "Segmentierung.md",
+    "Linsengleichung.md",
+    "Morphologische Operatoren.md",
+    "Punktoperationen.md",
+    "Wissensfragen.md",
+    "Zusammenfassung wissensfragen.md",
+    "Begriffserläuterungen.md",
+    "Anwendungsaufgabe.md",
+    "Klassifikation.md",
     "Bilder/Pasted image 20250209091322.png",
     "conflict-files-obsidian-git.md",
-    "Klassifikation.md",
     "Segmentierung Richard.md",
-    "Punktoperationen.md",
-    "Segmentierung.md",
-    "Wissensfragen.md",
-    "Anwendungsaufgabe.md",
-    "Begriffserläuterungen.md",
-    "Zusammenfassung wissensfragen.md",
-    "Morphologische Operatoren.md",
-    "Linsengleichung.md",
     "!Aufgabentypen.md",
     "Hough-Transformation.md",
     "Fouriertransformation 2D.md",
@@ -282,7 +282,6 @@
     "Bilder/Pasted image 20250205222528.png",
     "Bilder/Pasted image 20250205221602.png",
     "Bilder/Pasted image 20250205211833.png",
-    "Bilder/Pasted image 20250205205220.png",
     "Welcome.md",
     "Lokale Operationen/Filter.md",
     "Lokale Operationen",
