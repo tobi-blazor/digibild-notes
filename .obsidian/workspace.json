@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf"
+                "file": "phisik/01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf"
               },
               "icon": "lucide-file-text",
               "title": "01 Physikvorlesung (Kinematik 1)-zusammengefügt"
@@ -173,11 +173,11 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "1d55442388af4d14",
+  "active": "fa04b910c3c76def",
   "lastOpenFiles": [
     "phisik/Drehmoment.md",
     "conflict-files-obsidian-git.md",
-    "01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf",
+    "phisik/01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf",
     "phisik/Themen.md",
     "phisik/Trägheitsmoment.md",
     "phisik/Gleichgewichtsbedingnung.md",
