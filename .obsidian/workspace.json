@@ -11,14 +11,12 @@
             "id": "1d55442388af4d14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "phisik/Drehmoment.md",
-                "mode": "source",
-                "source": false
+                "file": "01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Drehmoment"
+              "icon": "lucide-file-text",
+              "title": "01 Physikvorlesung (Kinematik 1)-zusammengefügt"
             }
           }
         ]
@@ -175,10 +173,11 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "69ad8c6d89d19584",
+  "active": "1d55442388af4d14",
   "lastOpenFiles": [
     "phisik/Drehmoment.md",
     "conflict-files-obsidian-git.md",
+    "01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf",
     "phisik/Themen.md",
     "phisik/Trägheitsmoment.md",
     "phisik/Gleichgewichtsbedingnung.md",
