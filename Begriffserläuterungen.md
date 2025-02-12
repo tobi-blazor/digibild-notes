@@ -1,5 +1,4 @@
 - !!! Homogene Koordinate
-- (! Hessesche Normalform)
 - ! Binarisierung
 - ! Tiefpassfilter
 - Histogrammebnung

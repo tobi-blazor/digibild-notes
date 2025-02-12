@@ -1,0 +1,23 @@
+## Verständnisfragen
+[[Gleichgewichtsbedingnung]]
+[[Rotationsbewegung]]
+[[Trägheitsmoment]]
+[[Drehmoment]]
+[[Drehimplus]]
+[[Stehende Wellen]]
+
+## Anwendungsaufgaben
+[[Kinematik]]
+[[Kreisbewegung]]
+[[Newtonsche Gesetze]]
+[[Schiefe Ebene]]
+[[Arbeit und Leistung]]
+[[Energieerhaltungssatz]]
+[[Impulserhaltungssatz]]
+[[Harmonische Schwingungen]]
+[[Erzwungene Schwingungen]]
+[[Wellenausbreitung]]
+[[Coulombsches Gesetz]]
+[[Elektrisches Feld]]
+[[Elektrische Spannung]]
+[[Stromstärke und Ladungsmenge]]

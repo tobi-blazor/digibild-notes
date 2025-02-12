@@ -37,10 +37,11 @@ Bei diesem Aufgabentyp können natürlich auch andere Eigenschaften von Histogra
 		- Original mit hilfe des Referenzbild korrigieren
 - Auto-Kontrast Erläutern
 	- Vorgehen erläutern
+		- von f nach g
+		- ![[Pasted image 20250207225115.png]]
 	- Vor und Nachteile
 - Histogrammebnung erläutern
 	- Grauwerte möglichst gleichmäßig über gesamten zur verfügung stehenden Wertebereich verteilen
-	- Grauwerte wo cumm Verteilungsfunktion stark ansteigt werden auseinander gezogen
 	- Vorgehen
 		- man muss wissen welchen Grauwertbereich man hat (0-255 oder 0-15 z.B.) die anzahl ist Q
 		- Tabelle zeichnen
@@ -73,8 +74,7 @@ Bei diesem Aufgabentyp können natürlich auch andere Eigenschaften von Histogra
 	- Verstärkt Grauwertdifferenzen
 !! Immer Achsenbeschriftungen angeben, sonst ist es ein fehler !!
 ## Auto-Kontrast
-von f nach g
-![[Pasted image 20250205151052.png]]
+
 
 
 

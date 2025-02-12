@@ -63,12 +63,19 @@ $$
 - Translation (Verschiebung)
 	- tx und ty
 	- wird als $(t_x,t_y)^T$ angegeben
-- Source to target erklären
-- target to source erklären
+- !! Vorwärtstransformation / Source to target erklären
+	- mit Koordinatentransformation T wird die Lage des Bildpunktes Anhand lage im Ergebnisbild berechnet
+	- Berechnet wie Bildpunkte des Original auf das Ergebnisbild zu verteilen sind
+	- Nicht sichergestellt, dass alle Bildpunkte im Ergebnis mit Werten belegt sind
+- !! Rückwärtstransformation / target to source erklären
+	- mit Koordinatentransformation $T^{-1}$ die Lage des Bildpunktes Anhand Lage im Originalbild berechnet
+	- Alle Bildpunkte mit Werten belegt
 - Affine Abbildungen sind $A*x$
 	- das hoch T nicht vergessen
 	- für Homogene Koordinate eine 1 in 3. Zeile ergänzen
-- ! Invarianz gegenüber geometrischen EIgenschaften mit Transformationen
+- !! Invarianz gegenüber geometrischen EIgenschaften mit Transformationen
+	- Invarianz bedeutet, eine Transformation erhält eine Eigenschaft des transformierten Objektes
+	- z.B. Projektion: gerade linien, affine: parallelismus, translation: orientierung, rotation: längen
 - Interpolationsverfahren
 	- nearest neighbor
 		- nächster Pixel, sehr schnell
@@ -78,10 +85,8 @@ $$
 	- bilinear
 		- vier nachbarn, durchschnitt
 		- flüssiger übergang der kanten
-- Vorwärtstransformation, vorundnachteile
-- Rückwärtstransformation, vorundnachteile
 - Homogene Koordinate
-- 
+	- Lineare Abbildung in Affine Abbildung umwandeln
 ![[Pasted image 20250205121905.png]]
 ye
 ![[Pasted image 20250205121939.png]]
@@ -95,10 +100,11 @@ ye
 ![[Pasted image 20250205122012.png]]
 ya
 ![[Pasted image 20250205122020.png]]
-
+ye
 ![[Pasted image 20250205122028.png]]
-
+ye
 ![[Pasted image 20250205122042.png]]
-
+y
 ![[Pasted image 20250205122051.png]]
 
+yews

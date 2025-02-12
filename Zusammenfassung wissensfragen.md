@@ -1,4 +1,5 @@
-
+![[Pasted image 20250208142806.png]]
+![[Pasted image 20250208142808.png]]
 
 2D-Fourierspektrum
 - Zentrierung verbessert Interpretation
@@ -10,7 +11,7 @@
 Fourierspektrum
 - 0te Komponente entspricht gleichanteil
 - $\frac{M}{2}$ Komponente entspricht nyquist-frequenz
-- amplitudenspektrum ist einfacher zu interpretieren
+- amplitudenspektrum ist einfacher zu interpretieren, phasenspektrum aber mehr eigenschaften des bildes 
 
 Fourierraum
 - Tiefpass entspricht Glättungsfilter mit lokalen Operatoren
@@ -68,10 +69,10 @@ Unsharp-Masking
 - schärferes Bild durch Addition/Subtraktion von einem geglätteten Bild ( Gauß-Filter ) und dem Originalbild
 
 Auto-kontrast
-- kein Problem, wenn grauwerte im histgramm 
+- kein Problem, wenn grauwerte im histgramm mittig sind
 
 Gelber fleck
-- wahrnehmung am besten und an den rändern
+- wahrnehmung am besten und an den rändern am schlechtesten
 
 Blende
 - wenn klein, dann verringert unschärfe, macht aber bild dunkler
