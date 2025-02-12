@@ -1,5 +1,5 @@
 ## Verständnisfragen
-[[Gleichgewichtsbedignung]]
+[[Gleichgewichtsbedingnung]]
 [[Rotationsbewegung]]
 [[Trägheitsmoment]]
 [[Drehmoment]]
