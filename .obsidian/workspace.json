@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phisik/Themen.md",
+                "file": "phisik/Rotationsbewegung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Themen"
+              "title": "Rotationsbewegung"
             }
           },
           {
@@ -216,9 +216,15 @@
   },
   "active": "2416a35b92061947",
   "lastOpenFiles": [
+    "phisik/Themen.md",
+    "phisik/Rotationsbewegung.md",
+    "phisik/Gleichgewichtsbedingnung.md",
+    "Wissensfragen.md",
+    "Klassifikation.md",
+    "Begriffserläuterungen.md",
+    "Bilder/Pasted image 20250212185133.png",
     "phisik/Newtonsche Gesetze.md",
     "phisik/Kinematik.md",
-    "phisik/Themen.md",
     "phisik/Kreisbewegung.md",
     "phisik/Stehende Wellen.md",
     "conflict-files-obsidian-git.md",
@@ -226,14 +232,9 @@
     "phisik/Drehimplus.md",
     "phisik/Drehmoment.md",
     "phisik/Trägheitsmoment.md",
-    "phisik/Rotationsbewegung.md",
-    "phisik/Gleichgewichtsbedingnung.md",
     "phisik",
-    "Klassifikation.md",
     "Segmentierung Richard.md",
-    "Wissensfragen.md",
     "Segmentierung.md",
-    "Begriffserläuterungen.md",
     "Punktoperationen.md",
     "Morphologische Operatoren.md",
     "Lokale Operationen, Filter.md",
@@ -248,11 +249,9 @@
     "Farbe.md",
     "Hough-Transformation.md",
     "Anwendungsaufgabe.md",
-    "!Aufgabentypen.md",
     "Bilder/Pasted image 20250207165204.png",
     "Bilder/Pasted image 20250205222528.png",
     "Bilder/Pasted image 20250205221602.png",
-    "Bilder/Pasted image 20250205211833.png",
     "Bilder",
     "desktop.ini"
   ]
