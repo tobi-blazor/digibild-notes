@@ -11,6 +11,7 @@
 - k nächster nachbar
 	- für testpunkt die Klasseninfo von k nächstem Punkten in Trainingsmenge, mehrheit antwortet
 - Support-Vektor Maschine
+	- Bei SVMs findet eine Eingabetransformation mit einer Kernfunktion statt
 	- Kernfunktion
 		- Radiale Basisfunktionen
 		- Polynomfunktionen
@@ -28,14 +29,12 @@
 	- Kreuzvalidierung
 		- Mustermenge in k gleich große teile einteilen
 		- wenn k sehr groß, validierungsmenge klein
-- Objektklassifikation
-	- Eigenschaften für Features/attribute
 - Objekterkennung
 	- Durch Bildsegmentierung (Features der Segmente)
 	- gleitendes Fenster und berechnung der Features
 - Attributeigenschaften (gewünscht)
 	- Translationsinvariant, Rotationsinvariant, Skaleninvariant
-- Features
+- Features für Objektklassifikation
 	- Flächeninhalt
 		- TIV, RIV
 	- Umfang
@@ -58,10 +57,9 @@
 	-  Hu Momente
 		- 7 invariante Merkmale zur Formbeschreibung basierend auf zentrale Momente
 	- Projektionen
+		- ![[Pasted image 20250209091322.png]]
 - Fluch der Dimensionne
 	- Steigende Zahl Merkmale -> notwendige trainingsmuster überproportional
-- Maximum Margin
-	- 
 
 ![[Pasted image 20250205123325.png]]![[Pasted image 20250205123337.png]]
 ![[Pasted image 20250205123346.png]]

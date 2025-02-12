@@ -33,16 +33,15 @@
 [[Wissensfragen]]
 [[Zusammenfassung wissensfragen]]
 
+# Aufgabe 9
+[[Klassifikation]]
+- ist auf spicker
 
 ---
 
 # Aufgabe 4 (immer)
 [[Begriffserläuterungen]]
 - auf lücke lernen, viele begriffe
-
-
-# Aufgabe 9
-[[Klassifikation]]
 
 # Aufgabe 10
 [[Linsengleichung]] (gabs nur ein mal)
