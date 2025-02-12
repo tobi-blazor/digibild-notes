@@ -47,7 +47,8 @@
 	- Bounding Box
 		- x-Eck um Punkte
 	- Kettencodes
-		- Konturen
+		- Beschreibung von Konturen mithilfe von Codes
+		- Invariant gegenüber Startpunktwahl
 	- zentrale Momente
 		- Verschiebung Ursprung an Schwerpunkt
 	- Orientierung
@@ -55,7 +56,7 @@
 	- Exzentrizität
 		- Größenverhältnis Hauptachse
 	-  Hu Momente
-		- Rotationsinvariant
+		- 7 invariante Merkmale zur Formbeschreibung basierend auf zentrale Momente
 	- Projektionen
 - Fluch der Dimensionne
 	- Steigende Zahl Merkmale -> notwendige trainingsmuster überproportional
