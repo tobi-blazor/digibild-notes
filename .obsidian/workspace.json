@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phisik/Stehende Wellen.md",
+                "file": "phisik/Themen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stehende Wellen"
+              "title": "Themen"
             }
           },
           {
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69ad8c6d89d19584",
+  "active": "2416a35b92061947",
   "lastOpenFiles": [
     "phisik/Stehende Wellen.md",
     "conflict-files-obsidian-git.md",
