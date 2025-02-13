@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,13 +228,15 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "6b2f9e0ce1fa07e0",
+  "active": "96fbbe9f537ba184",
   "lastOpenFiles": [
+    "phisik/Gleichgewichtsbedingnung.md",
+    "phisik/Themen.md",
+    "phisik/Drehmoment.md",
     "conflict-files-obsidian-git.md",
     "phisik/unterlagen/Physik 5s.pdf",
     "Bilder/Pasted image 20250213172643.png",
     "phisik/unterlagen/7469b91808.pdf",
-    "phisik/Themen.md",
     "phisik/01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf",
     "phisik/unterlagen/fb61a1e7c1.pdf",
     "!Aufgabentypen.md",
@@ -257,9 +259,7 @@
     "Bilder/Pasted image 20250212200205.png",
     "Bilder/Pasted image 20250212200138.png",
     "phisik/Kreisbewegung.md",
-    "phisik/Drehmoment.md",
     "phisik/Trägheitsmoment.md",
-    "phisik/Gleichgewichtsbedingnung.md",
     "phisik/Kinematik.md",
     "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
     "phisik/Newtonsche Gesetze.md",
