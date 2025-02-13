@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "697534b44186054a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d55442388af4d14",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "phisik/01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01 Physikvorlesung (Kinematik 1)-zusammengefügt"
-            }
-          }
-        ]
-      },
-      {
         "id": "2877631713e6993f",
         "type": "tabs",
         "children": [
@@ -43,6 +25,32 @@
             "id": "96fbbe9f537ba184",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phisik/Themen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Themen"
+            }
+          },
+          {
+            "id": "57428557d0205490",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "phisik/unterlagen/7469b91808.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "7469b91808"
+            }
+          },
+          {
+            "id": "1854c8dffc4abab7",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "phisik/unterlagen/Physik 5s.pdf"
@@ -52,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,13 +214,16 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "69ad8c6d89d19584",
+  "active": "1854c8dffc4abab7",
   "lastOpenFiles": [
+    "phisik/unterlagen/7469b91808.pdf",
+    "phisik/Themen.md",
+    "phisik/01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf",
+    "phisik/unterlagen/fb61a1e7c1.pdf",
+    "!Aufgabentypen.md",
+    "phisik/unterlagen/Physik 5s.pdf",
     "conflict-files-obsidian-git.md",
     "Bilder/Pasted image 20250213144535.png",
-    "phisik/unterlagen/7469b91808.pdf",
-    "phisik/unterlagen/fb61a1e7c1.pdf",
-    "phisik/unterlagen/Physik 5s.pdf",
     "phisik/Leiter, Nichtleiter, Halbleiter.md",
     "Bilder/Pasted image 20250212201115.png",
     "Bilder/Pasted image 20250212201037.png",
@@ -220,14 +231,12 @@
     "Bilder/Pasted image 20250212200541.png",
     "Bilder/Pasted image 20250212200319.png",
     "Bilder/Pasted image 20250212200256.png",
-    "phisik/Themen.md",
     "phisik/unterlagen/Formelsammlung.pdf",
     "phisik/unterlagen/Aufgabensammlung (Uebung).pdf",
     "phisik/unterlagen/UE12 Magnetisches Feld.pdf",
     "phisik/unterlagen/UE11 Elektrisches Feld.pdf",
     "phisik/unterlagen/UE10 Elektrostatik.pdf",
     "phisik/unterlagen/UE09 Mechanische Wellen.pdf",
-    "phisik/unterlagen/UE08 Schwingungen.pdf",
     "phisik/Untitled.md",
     "Harmonische Schwingungen.md",
     "Bilder/Pasted image 20250212200205.png",
@@ -244,7 +253,6 @@
     "phisik/Rotationsbewegung.md",
     "phisik/Drehimplus.md",
     "Segmentierung Richard.md",
-    "!Aufgabentypen.md",
     "Farbe.md",
     "Klassifikation.md",
     "Linsengleichung.md",
