@@ -50,9 +50,23 @@
               "icon": "lucide-file-text",
               "title": "Physik 5s"
             }
+          },
+          {
+            "id": "bf492e3f84877ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,8 +220,17 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "96fbbe9f537ba184",
+  "active": "bf492e3f84877ee3",
   "lastOpenFiles": [
+    "phisik/unterlagen/Physik 5s.pdf",
+    "conflict-files-obsidian-git.md",
+    "phisik/Leiter, Nichtleiter, Halbleiter.md",
+    "Bilder/Pasted image 20250212201115.png",
+    "Bilder/Pasted image 20250212201037.png",
+    "Bilder/Pasted image 20250212201012.png",
+    "Bilder/Pasted image 20250212200541.png",
+    "Bilder/Pasted image 20250212200319.png",
+    "Bilder/Pasted image 20250212200256.png",
     "phisik/Themen.md",
     "phisik/unterlagen/Formelsammlung.pdf",
     "phisik/unterlagen/Aufgabensammlung (Uebung).pdf",
@@ -227,7 +250,6 @@
     "phisik/Kreisbewegung.md",
     "phisik/Drehmoment.md",
     "phisik/Trägheitsmoment.md",
-    "conflict-files-obsidian-git.md",
     "phisik/Gleichgewichtsbedingnung.md",
     "phisik/Kinematik.md",
     "Affine und Lineare Abbildungen, Geometrische Transformationen.md",
@@ -237,12 +259,6 @@
     "phisik/Rotationsbewegung.md",
     "phisik/Drehimplus.md",
     "Segmentierung Richard.md",
-    "Bilder/Pasted image 20250209091322.png",
-    "Bilder/Pasted image 20250208145431.png",
-    "Bilder/Pasted image 20250208142808.png",
-    "Bilder/Pasted image 20250208142806.png",
-    "Bilder/Pasted image 20250208130820.png",
-    "Bilder/Pasted image 20250207225115.png",
     "!Aufgabentypen.md",
     "Farbe.md",
     "Klassifikation.md",
@@ -251,7 +267,6 @@
     "Hough-Transformation.md",
     "Morphologische Operatoren.md",
     "Segmentierung.md",
-    "Begriffserläuterungen.md",
-    "Zusammenfassung wissensfragen.md"
+    "Begriffserläuterungen.md"
   ]
 }
