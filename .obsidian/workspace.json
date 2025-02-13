@@ -43,14 +43,12 @@
             "id": "96fbbe9f537ba184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Harmonische Schwingungen.md",
-                "mode": "source",
-                "source": false
+                "file": "phisik/unterlagen/Physik 5s.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Harmonische Schwingungen"
+              "icon": "lucide-file-text",
+              "title": "Physik 5s"
             }
           }
         ],
@@ -210,14 +208,24 @@
   },
   "active": "96fbbe9f537ba184",
   "lastOpenFiles": [
+    "phisik/Themen.md",
+    "phisik/unterlagen/Formelsammlung.pdf",
+    "phisik/unterlagen/Aufgabensammlung (Uebung).pdf",
+    "phisik/unterlagen/UE12 Magnetisches Feld.pdf",
+    "phisik/unterlagen/UE11 Elektrisches Feld.pdf",
+    "phisik/unterlagen/UE10 Elektrostatik.pdf",
+    "phisik/unterlagen/UE09 Mechanische Wellen.pdf",
+    "phisik/unterlagen/UE08 Schwingungen.pdf",
+    "phisik/unterlagen/UE07 Impulserhaltung.pdf",
+    "phisik/unterlagen/UE06 Energie und Arbeit.pdf",
+    "phisik/unterlagen/UE05.pdf",
+    "phisik/Untitled.md",
+    "Harmonische Schwingungen.md",
     "Bilder/Pasted image 20250212200205.png",
     "Bilder/Pasted image 20250212200138.png",
     "Bilder/Pasted image 20250212200120.png",
-    "phisik/Themen.md",
-    "Harmonische Schwingungen.md",
     "phisik/Kreisbewegung.md",
     "phisik/Drehmoment.md",
-    "phisik/01 Physikvorlesung (Kinematik 1)-zusammengefügt.pdf",
     "phisik/Trägheitsmoment.md",
     "conflict-files-obsidian-git.md",
     "phisik/Gleichgewichtsbedingnung.md",
@@ -228,7 +236,6 @@
     "phisik/Stehende Wellen.md",
     "phisik/Rotationsbewegung.md",
     "phisik/Drehimplus.md",
-    "phisik",
     "Segmentierung Richard.md",
     "Bilder/Pasted image 20250209091322.png",
     "Bilder/Pasted image 20250208145431.png",
@@ -236,7 +243,6 @@
     "Bilder/Pasted image 20250208142806.png",
     "Bilder/Pasted image 20250208130820.png",
     "Bilder/Pasted image 20250207225115.png",
-    "Bilder/Pasted image 20250207165204.png",
     "!Aufgabentypen.md",
     "Farbe.md",
     "Klassifikation.md",
@@ -246,10 +252,6 @@
     "Morphologische Operatoren.md",
     "Segmentierung.md",
     "Begriffserläuterungen.md",
-    "Zusammenfassung wissensfragen.md",
-    "Lokale Operationen, Filter.md",
-    "Lokale Operationen",
-    "Bilder",
-    "desktop.ini"
+    "Zusammenfassung wissensfragen.md"
   ]
 }
