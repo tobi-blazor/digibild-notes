@@ -39,14 +39,12 @@
             "id": "2416a35b92061947",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "phisik/Themen.md",
-                "mode": "source",
-                "source": false
+                "file": "phisik/unterlagen/UE03.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Themen"
+              "icon": "lucide-file-text",
+              "title": "UE03"
             }
           },
           {
@@ -214,20 +212,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69ad8c6d89d19584",
+  "active": "2416a35b92061947",
   "lastOpenFiles": [
+    "phisik/unterlagen/UE02.pdf",
+    "phisik/unterlagen/UE01 Einheitengleichungen.pdf",
+    "phisik/unterlagen/Klausur 20211 MustermannAxel.pdf",
+    "phisik/unterlagen/Klausur 20202 MusterfrauRegine.pdf",
+    "phisik/unterlagen/Internationales Einheitenszstem.pdf",
+    "phisik/unterlagen/Formelsammlung.pdf",
+    "phisik/unterlagen/Aufgabensammlung (Uebung).pdf",
     "phisik/Themen.md",
     "conflict-files-obsidian-git.md",
     "phisik/unterlagen/Übungsklausur.pdf",
     "phisik/unterlagen/UE12 Magnetisches Feld.pdf",
     "phisik/unterlagen/UE11 Elektrisches Feld.pdf",
     "phisik/unterlagen/UE10 Elektrostatik.pdf",
-    "phisik/unterlagen/UE09 Mechanische Wellen.pdf",
-    "phisik/unterlagen/UE08 Schwingungen.pdf",
-    "phisik/unterlagen/UE07 Impulserhaltung.pdf",
-    "phisik/unterlagen/UE06 Energie und Arbeit.pdf",
-    "phisik/unterlagen/UE05.pdf",
-    "phisik/unterlagen/UE04.pdf",
     "Bilder/Pasted image 20250213144535.png",
     "Harmonische Schwingungen.md",
     "Bilder/Pasted image 20250212200205.png",
