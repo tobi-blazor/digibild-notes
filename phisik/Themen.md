@@ -79,4 +79,7 @@ beschreibt die Gesamtladung q, die sich aus einer Anzahl N von Elementarladungen
 - N = Anzahl der geladenen Teilchen (z. B. Elektronen oder Protonen)
 - e = Elementarladung (steht im Heft)
 
-Schiefe Ebene
+### Schiefe Ebene
+Die Reibungskraft auf einem Objekt, das sich auf einer schiefen Ebene befindet, wirkt immer **entgegen der relativen Bewegungsrichtung** oder der möglichen Bewegungsrichtung des Objekts.
+![[Pasted image 20250213144535.png]]
+# Ruppel stinkt nach ausgelaufenem Furzwasser
