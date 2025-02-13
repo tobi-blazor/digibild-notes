@@ -82,4 +82,6 @@ beschreibt die Gesamtladung q, die sich aus einer Anzahl N von Elementarladungen
 ### Schiefe Ebene
 Die Reibungskraft auf einem Objekt, das sich auf einer schiefen Ebene befindet, wirkt immer **entgegen der relativen Bewegungsrichtung** oder der möglichen Bewegungsrichtung des Objekts.
 ![[Pasted image 20250213144535.png]]
-# Ruppel stinkt nach ausgelaufenem Furzwasser
+
+### Wellengleichung
+![[Pasted image 20250213172643.png]]

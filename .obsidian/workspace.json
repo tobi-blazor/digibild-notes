@@ -11,14 +11,12 @@
             "id": "2eecca903efedc96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Klassifikation.md",
-                "mode": "source",
-                "source": false
+                "file": "phisik/unterlagen/Aufgabensammlung (Uebung).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Klassifikation"
+              "icon": "lucide-file-text",
+              "title": "Aufgabensammlung (Uebung)"
             }
           },
           {
@@ -41,10 +39,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "phisik/unterlagen/UE03.pdf"
+                "file": "phisik/unterlagen/7469b91808.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "UE03"
+              "title": "7469b91808"
             }
           },
           {
@@ -61,8 +59,7 @@
               "title": "Begriffserläuterungen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,21 +209,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2416a35b92061947",
+  "active": "2eecca903efedc96",
   "lastOpenFiles": [
+    "phisik/Themen.md",
+    "Bilder/Pasted image 20250213172643.png",
+    "phisik/Stehende Wellen.md",
+    "phisik/unterlagen/UE11 Elektrisches Feld.pdf",
+    "phisik/unterlagen/7469b91808.pdf",
+    "Begriffserläuterungen.md",
+    "Wissensfragen.md",
+    "phisik/unterlagen/UE03.pdf",
+    "Klassifikation.md",
+    "phisik/unterlagen/fb61a1e7c1.pdf",
+    "phisik/unterlagen/Aufgabensammlung (Uebung).pdf",
+    "phisik/unterlagen/Formelsammlung.pdf",
+    "conflict-files-obsidian-git.md",
     "phisik/unterlagen/UE02.pdf",
     "phisik/unterlagen/UE01 Einheitengleichungen.pdf",
     "phisik/unterlagen/Klausur 20211 MustermannAxel.pdf",
     "phisik/unterlagen/Klausur 20202 MusterfrauRegine.pdf",
-    "phisik/unterlagen/Internationales Einheitenszstem.pdf",
-    "phisik/unterlagen/Formelsammlung.pdf",
-    "phisik/unterlagen/Aufgabensammlung (Uebung).pdf",
-    "phisik/Themen.md",
-    "conflict-files-obsidian-git.md",
-    "phisik/unterlagen/Übungsklausur.pdf",
-    "phisik/unterlagen/UE12 Magnetisches Feld.pdf",
-    "phisik/unterlagen/UE11 Elektrisches Feld.pdf",
-    "phisik/unterlagen/UE10 Elektrostatik.pdf",
     "Bilder/Pasted image 20250213144535.png",
     "Harmonische Schwingungen.md",
     "Bilder/Pasted image 20250212200205.png",
@@ -244,13 +245,8 @@
     "Bilder/Pasted image 20250212201115.png",
     "Bilder/Pasted image 20250212201037.png",
     "Bilder/Pasted image 20250212201012.png",
-    "phisik/Stehende Wellen.md",
     "Bilder/Pasted image 20250212200541.png",
     "Bilder/Pasted image 20250212200319.png",
-    "Bilder/Pasted image 20250212200256.png",
-    "Begriffserläuterungen.md",
-    "Wissensfragen.md",
-    "Klassifikation.md",
     "Segmentierung Richard.md",
     "Segmentierung.md",
     "Punktoperationen.md",
